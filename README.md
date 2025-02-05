@@ -1,0 +1,2 @@
+# PowershellWM
+Powershell window manager
